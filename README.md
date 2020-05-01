@@ -12,6 +12,8 @@
 
 [![Build Status](https://semaphoreci.com/api/v1/carltesio/newsroom_3_client_admin/branches/dependabot-npm_and_yarn-jquery-3-5-0/badge.svg)](https://semaphoreci.com/carltesio/newsroom_3_client_admin)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bc01a02b-df7a-43b6-8e4f-484210071cf8/deploy-status)](https://app.netlify.com/sites/newsroom-ca-challenge-admin/deploys)
+
 
 
 ## The code   
