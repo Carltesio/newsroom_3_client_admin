@@ -10,6 +10,10 @@
 **Testing framework:** Cypress  
 **Deployed at:** [Netlify](https://admin-marstimes.netlify.com/).
 
+[![Build Status](https://semaphoreci.com/api/v1/carltesio/newsroom_3_client_admin/branches/dependabot-npm_and_yarn-jquery-3-5-0/badge.svg)](https://semaphoreci.com/carltesio/newsroom_3_client_admin)
+
+
+
 ## The code   
 This project is the Admin user interface of our Newspaper app Mars Times. Here journalists can log in to create articles and editors can log in to publish articles. 
 The master repository for the visitors interface, mobile app and API can be found here:
